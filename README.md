@@ -1,2 +1,3 @@
 # citi-bike
-Project related to Citi Bike dataset
+
+This is a project related to Citi Bike dataset
